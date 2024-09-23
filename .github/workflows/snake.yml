@@ -18,7 +18,7 @@ jobs:
       - name: Gerar Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ Guilherme-Orio }}
+          github_user_name: ${{Guilherme-Orio}}
           outputs: dist/snake.svg
 
       - name: Adicionar Snake ao repositório
