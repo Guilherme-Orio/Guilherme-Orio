@@ -16,9 +16,10 @@
     <img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="SQL Server" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</div>
-### Snake eating my contributions
+        ### Snake eating my contributions
 
-![snake gif](https://github.com/Guilherme-Orio/Guilherme-Orio/blob/output/dist/snake.svg)
-
+![snake gif](https://github.com/**SEU_USUARIO**/**SEU_REPOSITORIO**/blob/output/dist/snake.svg)
 </div>
+
+
+
