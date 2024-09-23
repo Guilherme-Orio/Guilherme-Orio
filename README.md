@@ -20,4 +20,4 @@
 
 ### Snake eating my contributions
 
-![snake gif](https://github.com/Guilherme-Orio/SEU_REPOSITORIO/blob/output/dist/snake.svg)
+![snake gif](https://github.com/Guilherme-Orio/Guilherme-Orio/blob/output/dist/snake.svg)
